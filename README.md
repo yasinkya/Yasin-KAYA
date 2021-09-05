@@ -11,7 +11,7 @@
 
 <p align=center>
   <a href="https://github.com/yasinkya">
-    <img src="https://badges.pufler.dev/visits/yasinkya/Yasin-KAYA?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/yasinkya/yasinkaya?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/yasinkya?tab=repositories">
     <img src="https://badges.pufler.dev/repos/yasinkya?style=flat-square&color=black&logo=github">
