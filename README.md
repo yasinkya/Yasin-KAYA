@@ -1,6 +1,6 @@
 ![banner](https://github.com/yasinkya/Yasin-KAYA/blob/master/banner.gif)
 <h2 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 🤓</h2>
-<p align="center">I'm currently a student Software Engineering at CBU, Yasin :student:. I'm interested about areas of machine learning like deep learning and artificial intelligence :man_technologist:. I can easily adapt to new technologies, I am an ambitious person and like to learn.
+<p align="center">I'm currently a student Software Engineering at CBU :student:. I'm interested about areas of machine learning like deep learning and artificial intelligence :man_technologist:. I can easily adapt to new technologies, I am an ambitious person and like to learn.
 </p>
 
 
